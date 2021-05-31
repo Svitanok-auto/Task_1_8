@@ -1,0 +1,93 @@
+{
+  "customers": [
+    {
+      "customer": "Lesy Filippova",
+      "shipment": [
+        {
+          "address": "Kyiv city, Ukraine",
+          "orders": [
+            {
+              "typeOfGoods": "T-short",
+              "count": 2
+            },
+            {
+              "typeOfGoods": "dress",
+              "count": 1
+            },
+            {
+              "typeOfGoods": "shoes",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "address": "Kharkiv city, Ukraine",
+          "orders": [
+            {
+              "typeOfGoods": "belt",
+              "count": 5
+            },
+            {
+              "typeOfGoods": "socks",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "customer": "James Liston",
+      "shipment": [
+        {
+          "address": "Boston city, USA",
+          "orders": [
+            {
+              "typeOfGoods": "jacket",
+              "count": 2
+            },
+            {
+              "typeOfGoods": "shoes",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "address": "Atlanta city, USA",
+          "orders": [
+            {
+              "typeOfGoods": "suit case",
+              "count": 1
+            },
+            {
+              "typeOfGoods": "socks",
+              "count": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "customer": "May Kinglook",
+      "shipment": [
+        {
+          "address": "New York city, USA",
+          "orders": [
+            {
+              "typeOfGoods": "T-short",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "address": "Atlanta city, USA",
+          "orders": [
+            {
+              "typeOfGoods": "suit case",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
